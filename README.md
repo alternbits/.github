@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="altern.gif" alt="Altern Logo" />
+  <a href="https://altern.ai">
+    <img src="altern.gif" alt="Altern Logo" />
+  </a>
 </p>
 
 <p align="center">
