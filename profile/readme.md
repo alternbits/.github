@@ -4,7 +4,7 @@
 
 ### Products
 
-- [Altern Website](https://altern) - curated list of AI apps and tools
+- [Altern Website](https://altern.ai) - curated list of AI apps and tools
 - [Altern Blog](https://blog.altern.ai) - review AI tools, find AI tips
 - [AI Lists by Users](https://altern.ai/lists) - a list of ai tools list by altern users
 - [Altern Newsletter](https://newsletter.altern.ai) - Best AI newsletter
