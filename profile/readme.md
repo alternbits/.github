@@ -22,4 +22,7 @@
 - [Best AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
 - [Best AI Newsletters](https://github.com/alternbits/awesome-ai-newsletters) - A curated list of top best AI Related Newsletters and ai agents newsletters
 - [Best AI Agents Directories](https://github.com/alternbits/awesome-ai-agents-directories) - A comprehensive list of top best AI agents directories available online
+- [Best AI Marketing Tools](https://github.com/alternbits/awesome-ai-marketing) - A curated list of top best ai tools for marketing
+
+
 
